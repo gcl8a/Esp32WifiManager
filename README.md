@@ -25,6 +25,12 @@ Type:
 pass
 ```
 
+For a list of available networks, you can type:
+
+```
+scan
+```
+
 
 # AP mode 
 
